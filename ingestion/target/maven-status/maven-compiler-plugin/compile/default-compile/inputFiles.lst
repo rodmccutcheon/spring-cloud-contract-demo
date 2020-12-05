@@ -1,0 +1,8 @@
+/Users/rod/Work/Repos/spring-cloud-contract-demo/ingestion/src/main/java/com/rodmccutcheon/ingestion/data/InputPacket.java
+/Users/rod/Work/Repos/spring-cloud-contract-demo/ingestion/src/main/java/com/rodmccutcheon/ingestion/data/SceneNotification.java
+/Users/rod/Work/Repos/spring-cloud-contract-demo/ingestion/src/main/java/com/rodmccutcheon/ingestion/parsing/SimpleJsonGatewayMessageParser.java
+/Users/rod/Work/Repos/spring-cloud-contract-demo/ingestion/src/main/java/com/rodmccutcheon/ingestion/data/GatewayNotification.java
+/Users/rod/Work/Repos/spring-cloud-contract-demo/ingestion/src/main/java/com/rodmccutcheon/ingestion/config/IngestionConfig.java
+/Users/rod/Work/Repos/spring-cloud-contract-demo/ingestion/src/main/java/com/rodmccutcheon/ingestion/IngestionApplication.java
+/Users/rod/Work/Repos/spring-cloud-contract-demo/ingestion/src/main/java/com/rodmccutcheon/ingestion/data/DaliStatusNotifications.java
+/Users/rod/Work/Repos/spring-cloud-contract-demo/ingestion/src/main/java/com/rodmccutcheon/ingestion/data/DeviceNotification.java

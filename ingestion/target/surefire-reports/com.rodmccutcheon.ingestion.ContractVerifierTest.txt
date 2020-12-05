@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.rodmccutcheon.ingestion.ContractVerifierTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.594 s <<< FAILURE! - in com.rodmccutcheon.ingestion.ContractVerifierTest
+validate_shouldParseInputPacketAndSendDaliStatusMessage  Time elapsed: 0.092 s  <<< ERROR!
+java.lang.IllegalStateException: org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'dali_status_notifications' available
+	at com.rodmccutcheon.ingestion.ContractVerifierTest.validate_shouldParseInputPacketAndSendDaliStatusMessage(ContractVerifierTest.java:36)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'dali_status_notifications' available
+	at com.rodmccutcheon.ingestion.ContractVerifierTest.validate_shouldParseInputPacketAndSendDaliStatusMessage(ContractVerifierTest.java:36)
+

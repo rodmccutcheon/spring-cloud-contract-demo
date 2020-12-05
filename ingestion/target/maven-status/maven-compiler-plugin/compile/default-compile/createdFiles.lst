@@ -1,0 +1,9 @@
+com/rodmccutcheon/ingestion/config/IngestionConfig.class
+com/rodmccutcheon/ingestion/parsing/SimpleJsonGatewayMessageParser.class
+com/rodmccutcheon/ingestion/data/SceneNotification.class
+com/rodmccutcheon/ingestion/data/DaliStatusNotifications$DaliStatus.class
+com/rodmccutcheon/ingestion/IngestionApplication.class
+com/rodmccutcheon/ingestion/data/InputPacket.class
+com/rodmccutcheon/ingestion/data/GatewayNotification.class
+com/rodmccutcheon/ingestion/data/DeviceNotification.class
+com/rodmccutcheon/ingestion/data/DaliStatusNotifications.class

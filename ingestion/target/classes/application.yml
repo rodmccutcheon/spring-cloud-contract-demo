@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        parse|route-in-0:
+          destination: input
+      function:
+        definition: parse|route

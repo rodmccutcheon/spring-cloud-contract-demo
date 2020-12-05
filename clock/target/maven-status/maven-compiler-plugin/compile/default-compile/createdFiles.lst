@@ -1,0 +1,5 @@
+com/rodmccutcheon/clock/client/WebClient.class
+com/rodmccutcheon/clock/data/ClockNotification.class
+com/rodmccutcheon/clock/data/Building.class
+com/rodmccutcheon/clock/config/ClockConfig.class
+com/rodmccutcheon/clock/ClockApplication.class

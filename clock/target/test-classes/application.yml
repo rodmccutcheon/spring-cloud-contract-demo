@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: test
+
+  cloud:
+    stream:
+      bindings:
+        timeoutApplierClockSupplier-out-0:
+          content-type: application/json
+          destination: clock_timeout_applier
+      function:
+        definition: timeoutApplierClockSupplier

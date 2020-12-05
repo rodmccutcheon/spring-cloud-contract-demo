@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.rodmccutcheon.clock.ContractVerifierTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.706 s <<< FAILURE! - in com.rodmccutcheon.clock.ContractVerifierTest
+validate_shouldProduceMessageToTriggerTimeoutApplier  Time elapsed: 5.011 s  <<< ERROR!
+java.lang.IllegalArgumentException: Message must not be null!
+	at com.rodmccutcheon.clock.ContractVerifierTest.validate_shouldProduceMessageToTriggerTimeoutApplier(ContractVerifierTest.java:30)
+
